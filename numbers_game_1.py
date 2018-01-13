@@ -1,11 +1,11 @@
 from random import randint
-import time
+from time import sleep
 
 guessed = False
 computer_number = randint(1, 100)
 
 print("The computer draws a number from 1 to 100 range. Try to guess the number.")
-time.sleep(2)
+sleep(2)
 
 while not guessed:
     user_number_str = input("Guess the number: ")
