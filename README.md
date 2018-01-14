@@ -11,5 +11,5 @@ Computer should guess it in 10 tries, based on hints from the player. Written in
 
 **lotto_simulator.py**
 Lotto is a number game involving drawing six number from the range from 1 to 49. The player should correctly guess
-the numbers. The correct hit of 3, 4, 5 or 6 numbers is rewarded.
+the numbers. The correct hit of 3, 4, 5 or 6 numbers is rewarded. Written in Python.
 
