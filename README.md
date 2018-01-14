@@ -1,4 +1,4 @@
-## Workshops No. 1
+## Workshops No. 1 - Python
 **Programs written for workshops during programming course at Coders Lab.**
 
 **numbers_game_1.py**
